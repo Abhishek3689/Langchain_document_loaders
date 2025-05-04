@@ -2,7 +2,7 @@ pandas
 numpy
 langchain-community
 langchain
-
+beautifulsoup4
 langchain-core
 streamlit
 # Environment Variable Management
@@ -11,6 +11,6 @@ python-dotenv
 langchain-huggingface
 transformers
 huggingface-hub
-
+pypdf
 pydantic
 grandalf
